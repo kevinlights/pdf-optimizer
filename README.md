@@ -1,7 +1,7 @@
 # PDF Optimizer Tool
 
 ## 1. Introduction
-User Python to export images from PDF file, then use Gamma algorithm.
+User Python to export images from PDF file, then optimize it by Gamma algorithm.
 
 ## 2. Process
 1. Create folders `input` `output` `pdf` in `jupyter` folder.
