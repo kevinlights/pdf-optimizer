@@ -3,3 +3,5 @@ numpy
 matplotlib
 img2pdf
 pdf2img
+easyocr
+PyPDF2
