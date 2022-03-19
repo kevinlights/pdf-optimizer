@@ -1,0 +1,36 @@
+{
+  "/Title": "1——第 0 章：准备工作\r",
+  "/Page": {
+    "/Type": "/Page",
+    "/Parent": {
+      "/Type": "/Pages",
+      "/Kids": [],
+      "/Count": 511
+    },
+    "/MediaBox": [
+      0,
+      0,
+      800.7874,
+      1014.4806
+    ],
+    "/Contents": {},
+    "/Resources": {
+      "/XObject": {
+        "/Im31": {
+          "/Type": "/XObject",
+          "/Subtype": "/Image",
+          "/Name": "/Im31",
+          "/Width": 1068,
+          "/Height": 1353,
+          "/BitsPerComponent": 8,
+          "/ColorSpace": "/DeviceGray",
+          "/Filter": "/DCTDecode"
+        }
+      },
+      "/ProcSet": [
+        "/ImageB"
+      ]
+    }
+  },
+  "/Type": "/Fit"
+}
